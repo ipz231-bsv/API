@@ -31,3 +31,10 @@ C:\Projects\2 Курс\Практика\API\WebApplication1\obj\Debug\net8.0\ref
 C:\Projects\2 Курс\Практика\API\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
 C:\Projects\2 Курс\Практика\API\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
 C:\Projects\2 Курс\Практика\API\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+C:\Projects\2 Курс\Практика\API\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Projects\2 Курс\Практика\API\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Projects\2 Курс\Практика\API\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Projects\2 Курс\Практика\API\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Projects\2 Курс\Практика\API\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Projects\2 Курс\Практика\API\WebApplication1\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Projects\2 Курс\Практика\API\WebApplication1\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll

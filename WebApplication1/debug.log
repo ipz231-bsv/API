@@ -1,0 +1,6 @@
+[0205/223223.334:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0205/223634.560:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0205/223634.567:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0205/223639.580:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0205/223639.580:WARNING:dns_config_service_win.cc(583)] Failed to read DnsConfig.
+[0205/225247.185:ERROR:gpu_init.cc(523)] Passthrough is not supported, GL is disabled, ANGLE is 
