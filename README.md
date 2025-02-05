@@ -24,7 +24,7 @@ markdown
 
 1. Клонуйте репозиторій:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/ipz231-bsv/API.git
 Встановіть необхідні пакети та залежності.
 
 Запустіть проект:
